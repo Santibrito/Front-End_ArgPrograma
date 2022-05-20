@@ -1,0 +1,36 @@
+.banner{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 5%;
+}
+
+.user_info{
+    margin: auto;
+}
+
+.user_info h1{
+    color: #1C6DD0;
+    font-weight: 700;
+    font-size: 4em;
+}
+
+.user_info p{
+    font-weight: 300;
+    font-size: 2em;
+}
+
+
+.user_avatar{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user_avatar img{   
+    width: 30%;
+    border-radius: 10px;
+}
+
+

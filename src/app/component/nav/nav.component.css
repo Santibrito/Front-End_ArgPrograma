@@ -1,0 +1,16 @@
+.navbar{
+    margin-left: 10%;
+    margin-right: 10%;
+    border-end-start-radius: 10px;
+    border-end-end-radius: 10px;
+    
+}
+
+.navbar a{
+    color: rgb(0, 0, 0) !important;
+}
+
+.toggler{
+    color: white !important;
+}
+

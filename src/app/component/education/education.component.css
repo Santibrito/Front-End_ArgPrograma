@@ -1,0 +1,23 @@
+.education{
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 1%;
+}
+
+.title_education h2{
+    color: #1C6DD0;
+    font-size: 2em;
+    font-weight: 300;
+}
+
+.list_education{
+    margin-top: 20px;
+    line-height: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#info{
+    font-size: 1.7em;
+    font-weight: 400;
+}

@@ -1,0 +1,32 @@
+.skills{
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 1%;
+}
+
+.title_skills h2{
+    color: #1C6DD0;
+    font-size: 2em;
+    font-weight: 300;
+}
+
+.container{
+    margin-top:200px;
+}
+
+.list_skills{
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.list_skills h3{
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.progress{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    
+}
